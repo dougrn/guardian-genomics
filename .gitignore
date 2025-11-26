@@ -1,0 +1,22 @@
+# Ambientes virtuais
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos de Dados (Privacidade Absoluta)
+*.csv
+*.txt.gz
+*.pdf
+temp_clinvar_summary.txt.gz
+
+# Configurações e Senhas
+.env
+config.py
+secrets.json
+
+# Logs
+*.log
+
+# Banco de Dados local (se estiver na pasta)
+*.db
+*.sqlite
