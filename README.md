@@ -60,3 +60,5 @@ pip install -r requirements.txt
 
 # Run the orchestrator
 python 00_orchestrator.py
+
+"Note: This repository contains a refactored reference implementation of the core pipeline. The actual production system currently running on my server utilizes a set of optimized batch scripts for ease of maintenance and rapid iteration."
