@@ -1,0 +1,7 @@
+psycopg2-binary>=2.9.9
+pandas>=2.1.0
+biopython>=1.81
+requests>=2.31.0
+fpdf>=1.7.2
+ollama>=0.1.6
+schedule>=1.2.1
