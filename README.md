@@ -53,7 +53,7 @@ The system moves beyond simple RAG (Retrieval-Augmented Generation) by implement
 
 ```bash
 # Clone the repository
-git clone [https://github.com/dougrn/guardian-genomics.git](https://github.com/your-username/guardian-genomics.git)
+git clone https://github.com/dougrn/guardian-genomics.git
 
 # Install dependencies
 pip install -r requirements.txt
